@@ -1,3 +1,6 @@
 Première version du fichier 1
 Modification dans branche_two
-Git revert à effezctuerzz
+<<<<<<< HEAD
+
+=======
+>>>>>>> parent of 3bb8685 (Modif du fichier 1)
